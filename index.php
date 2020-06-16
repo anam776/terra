@@ -1,10 +1,8 @@
 <html>
 <body>
-<h1>ANAM</h1>
-<h3>TERRAFORM</h3>
 
 <p>WELCOME</p>
-<p>WEBPAGE CREATED USING TERRAFORM</p>
+<p>CREATED USING TERRAFORM</p>
 <br>
 <?php
   $cloudfront_url = `head -n1 my1.txt`;
